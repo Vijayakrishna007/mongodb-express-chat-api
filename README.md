@@ -30,7 +30,7 @@ This repository contains the source code for a simple chat website built using *
 ##  Getting Started
 
 ### 1. Clone the Repository
-git clone <repository_url> 
+git clone <repository_url> <br>
 cd mongodb_with_express
 ### 2. Install Dependencies
 npm install
